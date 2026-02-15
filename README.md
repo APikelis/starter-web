@@ -1,14 +1,23 @@
 # Starter Web Repo
 
+##Copyright
+
+This is a copy right notice
+
 ##Intro
+
 This repository is for showing how Git and GitHub work
 
 ##Config
+
 Adding text here
+
 ##Deployment
+
 Adding text here too
 
 ##How to conrtibute
+
 even more text!!
 
 ## Purpose
