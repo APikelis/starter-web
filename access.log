@@ -1,3 +1,13 @@
 Date: xx-xx-xxxx
 LogID: xxxxxxxLOG
+
+Loc: {South Door}/{North Door}/ {Main}
+TimeIn: xx:xx:xx
+TimeOut: xx:xx:xx
+
+Name: {Employee}/{Contractor}/{Unknown}
 Purpose: Employee/Contractor/Intruder
+
+Escalate: Yes/No
+Archived: Yes/No
+ArchiveDate: xx-xx-xxxx
